@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 
-[MIT] (https://tr.wikipedia.org/wiki/MIT_Lisans%C4%B1)
+[MIT](https://tr.wikipedia.org/wiki/MIT_Lisans%C4%B1)
